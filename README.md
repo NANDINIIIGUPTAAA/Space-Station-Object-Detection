@@ -1,4 +1,4 @@
-# Space-Station-Object-Detection
+# Space-Station-Object-Detection 
 
 This project uses YOLO (You Only Look Once) for object detection on space station datasets. It predicts objects in images and saves both the annotated images and bounding box labels.
 
